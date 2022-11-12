@@ -1,7 +1,7 @@
 ## DesignPatterns
 ### Паттерны проектирования
 
-<img src="https://ic.wampi.ru/2022/11/12/patterns_rep.png" alt="drawing" width="1550"/>
+<img src="https://im.wampi.ru/2022/11/12/d-p.jpg" alt="drawing" width="1050"/>
 
 ***Repository content:***
 
