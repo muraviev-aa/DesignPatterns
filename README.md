@@ -7,20 +7,20 @@
 
 <url> &#128194; **C#**</url>
 
-+ <strong>&#128448; Creational patterns </strong> 
++ <strong>&#128448; Creational Patterns </strong> 
   
   + Abstract Factory
   
-+ <strong>&#128448; Structural patterns </strong> 
++ <strong>&#128448; Structural Patterns </strong> 
 
-+ <strong>&#128448; Behavioral patterns </strong> 
++ <strong>&#128448; Behavioral Patterns </strong> 
 
 <url> &#128194; **Java**</url>
 
-+ <strong>&#128448; Creational patterns </strong> 
++ <strong>&#128448; Creational Patterns </strong> 
   
   + Abstract Factory
   
-+ <strong>&#128448; Structural patterns </strong> 
++ <strong>&#128448; Structural Patterns </strong> 
 
-+ <strong>&#128448; Behavioral patterns </strong> 
++ <strong>&#128448; Behavioral Patterns </strong> 
