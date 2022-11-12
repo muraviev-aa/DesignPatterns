@@ -5,7 +5,7 @@
 
 ***Repository content:***
 
-<url> &#128194; **C#**</url>
+<url> 1. &#128194; **C#**</url>
 
 + <strong>&#128448; Creational Patterns </strong> 
   
@@ -15,7 +15,7 @@
 
 + <strong>&#128448; Behavioral Patterns </strong> 
 
-<url> &#128194; **Java**</url>
+<url> 2. &#128194; **Java**</url>
 
 + <strong>&#128448; Creational Patterns </strong> 
   
