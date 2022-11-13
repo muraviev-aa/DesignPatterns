@@ -21,6 +21,8 @@
   
   + Abstract Factory
   
+  + Prototype
+  
 + <strong>&#128448; Structural Patterns </strong> 
 
 + <strong>&#128448; Behavioral Patterns </strong> 
