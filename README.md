@@ -11,6 +11,8 @@
   
   + Abstract Factory
   
+  + Builder
+  
   + Prototype
   
 + <strong>&#128448; Structural Patterns </strong> 
@@ -22,6 +24,8 @@
 + <strong>&#128448; Creational Patterns </strong> 
   
   + Abstract Factory
+  
+  + Builder
   
   + Prototype
   
