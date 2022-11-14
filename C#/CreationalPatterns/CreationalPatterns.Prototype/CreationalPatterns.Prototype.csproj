@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{15EBB5ED-6349-42F2-B357-819C5A39ED44}</ProjectGuid>
+    <ProjectGuid>{8D2582B5-2E31-485A-A025-6B0B620DAB66}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CreationalPatterns.AbstractFactory</RootNamespace>
-    <AssemblyName>CreationalPatterns.AbstractFactory</AssemblyName>
+    <RootNamespace>CreationalPatterns.Prototype</RootNamespace>
+    <AssemblyName>CreationalPatterns.Prototype</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,19 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CsvConverter.cs" />
-    <Compile Include="CsvConverterFactory.cs" />
-    <Compile Include="DocxConverter.cs" />
-    <Compile Include="DocxConverterFactory.cs" />
-    <Compile Include="IDocumentConverter.cs" />
-    <Compile Include="IDocumentConverterFactory.cs" />
+    <Compile Include="Copyable.cs" />
+    <Compile Include="Extensions.cs" />
+    <Compile Include="Phonebook.cs" />
+    <Compile Include="PhonebookFactory.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="PdfConverter.cs" />
-    <Compile Include="PdfConverterFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
