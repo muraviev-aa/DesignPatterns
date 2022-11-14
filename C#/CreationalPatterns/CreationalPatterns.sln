@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns.Abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns.Prototype", "CreationalPatterns.Prototype\CreationalPatterns.Prototype.csproj", "{8D2582B5-2E31-485A-A025-6B0B620DAB66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns.Builder", "CreationalPatterns.Builder\CreationalPatterns.Builder.csproj", "{9DDF27BF-6C3E-46C4-A604-C4C77FB06BC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8D2582B5-2E31-485A-A025-6B0B620DAB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D2582B5-2E31-485A-A025-6B0B620DAB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D2582B5-2E31-485A-A025-6B0B620DAB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDF27BF-6C3E-46C4-A604-C4C77FB06BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDF27BF-6C3E-46C4-A604-C4C77FB06BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDF27BF-6C3E-46C4-A604-C4C77FB06BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDF27BF-6C3E-46C4-A604-C4C77FB06BC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
