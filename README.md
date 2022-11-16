@@ -8,7 +8,7 @@
 <!-- C# -->
 ## C#
 
-+ <strong>&#128448; Creational Patterns </strong> 
+<strong>&#128194; Creational Patterns </strong> 
 
   + Abstract Factory
   
@@ -16,16 +16,14 @@
   
   + Prototype
     
-+ <strong>&#128448; Structural Patterns </strong> 
+<strong>&#128194; Structural Patterns </strong> 
 
-+ <strong>&#128448; Behavioral Patterns </strong> 
-
-<p align="right"></p>
+<strong>&#128194; Behavioral Patterns </strong> 
 
 <!-- Java -->
 ## Java
 
-+ <strong>&#128448; Creational Patterns </strong> 
+<strong>&#128194; Creational Patterns </strong> 
   
   + Abstract Factory
   
@@ -33,10 +31,6 @@
   
   + Prototype
   
-+ <strong>&#128448; Structural Patterns </strong> 
+<strong>&#128194; Structural Patterns </strong> 
 
-+ <strong>&#128448; Behavioral Patterns </strong> 
-
-<p align="right"></p>
-
-
+<strong>&#128194; Behavioral Patterns </strong> 
