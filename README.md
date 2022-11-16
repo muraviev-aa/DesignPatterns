@@ -5,7 +5,25 @@
 
 ***Repository content:***
 
-🚩 <url> &#128194; **C#**</url>
+<!-- C# -->
+## C#
+
++ <strong>&#128448; Creational Patterns </strong> 
+
+  + Abstract Factory
+  
+  + Builder
+  
+  + Prototype
+    
++ <strong>&#128448; Structural Patterns </strong> 
+
++ <strong>&#128448; Behavioral Patterns </strong> 
+
+<p align="right"></p>
+
+<!-- Java -->
+## Java
 
 + <strong>&#128448; Creational Patterns </strong> 
   
@@ -19,16 +37,6 @@
 
 + <strong>&#128448; Behavioral Patterns </strong> 
 
-🚩 <url> &#128194; **Java**</url>
+<p align="right"></p>
 
-+ <strong>&#128448; Creational Patterns </strong> 
-  
-  + Abstract Factory
-  
-  + Builder
-  
-  + Prototype
-  
-+ <strong>&#128448; Structural Patterns </strong> 
 
-+ <strong>&#128448; Behavioral Patterns </strong> 
