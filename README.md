@@ -14,6 +14,8 @@
   
   + Builder
   
+  + FactoryMethod
+  
   + Prototype
     
 <strong>&#128194; Structural Patterns </strong> 
