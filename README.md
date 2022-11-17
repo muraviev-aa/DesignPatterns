@@ -31,7 +31,7 @@
 <details>
   <summary>FactoryMethod</summary>
   <ol>
-    <img src="https://ie.wampi.ru/2022/11/17/FactoryMethod.png" alt="drawing" width="700"/>
+    <img src="https://ie.wampi.ru/2022/11/17/FactoryMethod.png" alt="drawing" width="600"/>
   </ol>
 </details>
   
